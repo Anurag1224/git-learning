@@ -1,0 +1,6 @@
+Git is a Distributed Version Control System.
+It tracks the changes of the files over the time.
+Allows us to go back to the previous version. 
+It allows collaboration with multiple developer to work on the same code safely.
+And most importantly it is open source and works offline.
+It is an industry practice to use git to make your code version safe and use later if the current version have some issues.
