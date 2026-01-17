@@ -7,4 +7,4 @@ It is an industry practice to use git to make your code version safe and use lat
 lession 3 feature started
 Learning Branching
 Git is extremely powerful and flexible.
-Learning to manage 
+Learning how to handel branch conflict.
