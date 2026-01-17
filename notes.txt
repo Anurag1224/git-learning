@@ -6,3 +6,5 @@ And most importantly it is open source and works offline.
 It is an industry practice to use git to make your code version safe and use later if the current version have some issues.
 lession 3 feature started
 Learning Branching
+Git is extremely powerful and flexible.
+
